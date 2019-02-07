@@ -123,7 +123,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "#1d3244",
+        "fill-color": "#1d3233",
         "fill-opacity": [
           "interpolate",
           [
